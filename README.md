@@ -7,8 +7,9 @@ using Cross-Cancer Learning]'. The code is modified from [DeePathology](https://
 
 ### Installation
 This repository is based on Tensorflow 2.2.0
-
 For installing tensorflow, please follow the official instructions in [here](https://www.tensorflow.org/install/install_linux). The code is tested under Python 3.6 on Ubuntu 18.04.
+
+Associate packages include: [h5py](https://www.h5py.org/), [SHAP](https://github.com/slundberg/shap), [sklearn](https://scikit-learn.org/stable/).
 
 ### Data
 Our prepared data can be downloaded from [CCL-Discovery(data)](https://drive.google.com/file/d/1evJ7J4M7U8TsU_lujKUBq6ROYS9d7pZR/view?usp=sharing). Put all files in this folder to `data_process` folder in the root directory.
